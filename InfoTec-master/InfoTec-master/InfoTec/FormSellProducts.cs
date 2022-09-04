@@ -28,6 +28,16 @@ namespace InfoTec
        
         private void registerProduct_Click(object sender, EventArgs e)
         {
+         
+        }
+
+        private void idProductEditText_TextChanged(object sender, EventArgs e)
+        {
+            isEditTextChanged = true;
+        }
+
+        private void cadastroBtn_Click(object sender, EventArgs e)
+        {
             if (isEditTextChanged)
             {
                 FormDialogSuccess successDialog = new FormDialogSuccess();
@@ -35,9 +45,9 @@ namespace InfoTec
             }
         }
 
-        private void idProductEditText_TextChanged(object sender, EventArgs e)
+        private void NovoProduto_Click(object sender, EventArgs e)
         {
-            isEditTextChanged = true;
+
         }
     }
 }

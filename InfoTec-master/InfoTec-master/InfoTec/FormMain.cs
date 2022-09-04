@@ -29,8 +29,8 @@ namespace InfoTec
 
         private void button2_Click(object sender, EventArgs e)
         {
-            FormRegisterProduct registerProductDialog = new FormRegisterProduct();
-            registerProductDialog.ShowDialog();
+            Form1 formRegisterDialog = new Form1();
+            formRegisterDialog.ShowDialog();
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -52,6 +52,11 @@ namespace InfoTec
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
             
+        }
+
+        private void listViewProducts_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

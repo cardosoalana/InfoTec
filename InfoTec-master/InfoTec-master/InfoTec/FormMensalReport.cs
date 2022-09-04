@@ -36,5 +36,10 @@ namespace InfoTec
         {
 
         }
+
+        private void FormMensalReport_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
