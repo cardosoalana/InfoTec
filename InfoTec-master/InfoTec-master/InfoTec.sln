@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoTec", "InfoTec\InfoTec.csproj", "{37CF72EC-91DE-4EBA-A491-F576F8400941}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37CF72EC-91DE-4EBA-A491-F576F8400941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37CF72EC-91DE-4EBA-A491-F576F8400941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37CF72EC-91DE-4EBA-A491-F576F8400941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37CF72EC-91DE-4EBA-A491-F576F8400941}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8071913-9559-4555-9161-F252426058C1}
+	EndGlobalSection
+EndGlobal

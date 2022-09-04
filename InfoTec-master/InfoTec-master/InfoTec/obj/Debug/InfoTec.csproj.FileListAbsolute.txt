@@ -1,0 +1,15 @@
+C:\Users\Alana\Downloads\InfoTec-master\InfoTec-master\InfoTec\bin\Debug\InfoTec.exe.config
+C:\Users\Alana\Downloads\InfoTec-master\InfoTec-master\InfoTec\bin\Debug\InfoTec.exe
+C:\Users\Alana\Downloads\InfoTec-master\InfoTec-master\InfoTec\bin\Debug\InfoTec.pdb
+C:\Users\Alana\Downloads\InfoTec-master\InfoTec-master\InfoTec\obj\Debug\InfoTec.csproj.AssemblyReference.cache
+C:\Users\Alana\Downloads\InfoTec-master\InfoTec-master\InfoTec\obj\Debug\InfoTec.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alana\Downloads\InfoTec-master\InfoTec-master\InfoTec\obj\Debug\InfoTec.Properties.Resources.resources
+C:\Users\Alana\Downloads\InfoTec-master\InfoTec-master\InfoTec\obj\Debug\InfoTec.csproj.GenerateResource.cache
+C:\Users\Alana\Downloads\InfoTec-master\InfoTec-master\InfoTec\obj\Debug\InfoTec.csproj.CoreCompileInputs.cache
+C:\Users\Alana\Downloads\InfoTec-master\InfoTec-master\InfoTec\obj\Debug\InfoTec.exe
+C:\Users\Alana\Downloads\InfoTec-master\InfoTec-master\InfoTec\obj\Debug\InfoTec.pdb
+C:\Users\Alana\Downloads\InfoTec-master\InfoTec-master\InfoTec\obj\Debug\InfoTec.FormMensalReport.resources
+C:\Users\Alana\Downloads\InfoTec-master\InfoTec-master\InfoTec\obj\Debug\InfoTec.FormMain.resources
+C:\Users\Alana\Downloads\InfoTec-master\InfoTec-master\InfoTec\obj\Debug\InfoTec.FormSellProducts.resources
+C:\Users\Alana\Downloads\InfoTec-master\InfoTec-master\InfoTec\obj\Debug\InfoTec.FormDialogSuccess.resources
+C:\Users\Alana\Downloads\InfoTec-master\InfoTec-master\InfoTec\obj\Debug\InfoTec.FormRegisterProduct.resources
