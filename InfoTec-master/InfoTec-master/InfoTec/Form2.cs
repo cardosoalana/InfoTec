@@ -24,7 +24,7 @@ namespace InfoTec
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form1 novo = new Form1();
+            FormSellProduct novo = new FormSellProduct();
             novo.Show();
             this.Visible = false;
         }

@@ -18,7 +18,6 @@ C:\Users\Alana\Desktop\pi1\InfoTecv1\InfoTec\InfoTec-master\InfoTec-master\InfoT
 C:\Users\Alana\Desktop\pi1\InfoTecv1\InfoTec\InfoTec-master\InfoTec-master\InfoTec\obj\Debug\InfoTec.FormDialogSuccess.resources
 C:\Users\Alana\Desktop\pi1\InfoTecv1\InfoTec\InfoTec-master\InfoTec-master\InfoTec\obj\Debug\InfoTec.FormMain.resources
 C:\Users\Alana\Desktop\pi1\InfoTecv1\InfoTec\InfoTec-master\InfoTec-master\InfoTec\obj\Debug\InfoTec.FormMensalReport.resources
-C:\Users\Alana\Desktop\pi1\InfoTecv1\InfoTec\InfoTec-master\InfoTec-master\InfoTec\obj\Debug\InfoTec.FormRegisterProduct.resources
 C:\Users\Alana\Desktop\pi1\InfoTecv1\InfoTec\InfoTec-master\InfoTec-master\InfoTec\obj\Debug\InfoTec.FormSellProducts.resources
 C:\Users\Alana\Desktop\pi1\InfoTecv1\InfoTec\InfoTec-master\InfoTec-master\InfoTec\obj\Debug\InfoTec.Properties.Resources.resources
 C:\Users\Alana\Desktop\pi1\InfoTecv1\InfoTec\InfoTec-master\InfoTec-master\InfoTec\obj\Debug\InfoTec.csproj.GenerateResource.cache
@@ -28,5 +27,5 @@ C:\Users\Alana\Desktop\pi1\InfoTecv1\InfoTec\InfoTec-master\InfoTec-master\InfoT
 C:\Users\Alana\Desktop\pi1\InfoTecv1\InfoTec\InfoTec-master\InfoTec-master\InfoTec\bin\Debug\InfoTec.exe.config
 C:\Users\Alana\Desktop\pi1\InfoTecv1\InfoTec\InfoTec-master\InfoTec-master\InfoTec\bin\Debug\InfoTec.exe
 C:\Users\Alana\Desktop\pi1\InfoTecv1\InfoTec\InfoTec-master\InfoTec-master\InfoTec\bin\Debug\InfoTec.pdb
-C:\Users\Alana\Desktop\pi1\InfoTecv1\InfoTec\InfoTec-master\InfoTec-master\InfoTec\obj\Debug\InfoTec.Form1.resources
 C:\Users\Alana\Desktop\pi1\InfoTecv1\InfoTec\InfoTec-master\InfoTec-master\InfoTec\obj\Debug\InfoTec.Form2.resources
+C:\Users\Alana\Desktop\pi1\InfoTecv1\InfoTec\InfoTec-master\InfoTec-master\InfoTec\obj\Debug\InfoTec.FormSellProduct.resources

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace InfoTec
 {
-    public partial class Form1 : Form
+    public partial class FormSellProduct : Form
     {
-        public Form1()
+        public FormSellProduct()
         {
             InitializeComponent();
             AplicarEventos(preco);

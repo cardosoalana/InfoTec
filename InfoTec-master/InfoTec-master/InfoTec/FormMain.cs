@@ -29,7 +29,7 @@ namespace InfoTec
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Form1 formRegisterDialog = new Form1();
+            FormSellProduct formRegisterDialog = new FormSellProduct();
             formRegisterDialog.ShowDialog();
         }
 

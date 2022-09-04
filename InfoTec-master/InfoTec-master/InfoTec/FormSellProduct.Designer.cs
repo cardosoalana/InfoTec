@@ -1,6 +1,6 @@
 ﻿namespace InfoTec
 {
-    partial class Form1
+    partial class FormSellProduct
     {
         /// <summary>
         /// Variável de designer necessária.
